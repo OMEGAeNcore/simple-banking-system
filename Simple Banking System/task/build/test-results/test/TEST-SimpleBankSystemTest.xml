@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleBankSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-12T14:07:47" hostname="LAPTOP-67NVQ6RL" time="2.522">
+  <properties/>
+  <testcase name="start" classname="SimpleBankSystemTest" time="2.522"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 2?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 3?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 4?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 5?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000008015842052
+Your card PIN:
+1216
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000007766444126
+Your card PIN:
+5228
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000002512654458
+Your card PIN:
+1327
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000003245215112
+Your card PIN:
+4202
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000001125710467
+Your card PIN:
+1558
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+4000008015842052
+4000007766444126
+4000002512654458
+4000003245215112
+4000001125710467
+?[1;31m
+Start test 6?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000008405755674
+Your card PIN:
+4553
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000008405755674
+Enter your PIN:
+> 4553
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 7?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000000873054722
+Your card PIN:
+6068
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000000873054722
+Enter your PIN:
+> 2726
+Wrong card number or PIN!
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 8?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000001325213106
+Your card PIN:
+7512
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 400000248012931
+Enter your PIN:
+> 7512
+Wrong card number or PIN!
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 9?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000003372054367
+Your card PIN:
+2671
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000003372054367
+Enter your PIN:
+> 2671
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 1
+Balance: 0
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 10?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000002421111186
+Your card PIN:
+8284
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000002421111186
+Enter your PIN:
+> 8284
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 10000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000002421111186
+Enter your PIN:
+> 8284
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 15000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 11?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000004437211604
+Your card PIN:
+8435
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000008485718675
+Your card PIN:
+7836
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000008485718675
+Enter your PIN:
+> 7836
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number: 
+> 2000007269641764
+Probably you made mistake in the card number. Please try again!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number: 
+> 2000007269641768
+Such a card does not exist.
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number: 
+> 4000004437211604
+Enter how much money you want to transfer:
+> 100000
+Not enough money!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 20000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number: 
+> 4000004437211604
+Enter how much money you want to transfer:
+> 10000
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+?[1;31m
+Start test 12?[0m
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000001638208322
+Your card PIN:
+7478
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number:
+> 4000001638208322
+Enter your PIN:
+> 7478
+You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 4
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+Bye!
+SQL Exception occured:
+[SQLITE_ERROR] SQL error or missing database (Connection is closed)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
